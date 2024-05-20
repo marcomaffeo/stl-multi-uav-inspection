@@ -1,0 +1,23 @@
+# Various files
+
+*.asv
+*.dae
+*.stl
+*.gif
+*.fig
+*.eps
+*.pdf
+*.png
+*.mat
+*.slxc
+*.m~
+
+
+/slprj
+
+pathdef.m
+
+
+
+
+

@@ -1,0 +1,14 @@
+## MPT3 package (not thsi repository)
+
+Software/MATLAB/MPT3/tbxmanager/
+
+## CVX (not these repositories)
+
+!Software/MATLAB/cvx
+!Software/MATLAB/cvx-windows
+
+## CASADI (not these repositories)
+
+!Software/MATLAB/casadi-windows
+!Software/MATLAB/casadi
+!Software/MATLAB/casadi-osx
